@@ -26,3 +26,9 @@ To accomplish this, the project utilizes **linear regression**, a widely used st
 **Prediction and Deployment**: in this phase, I've used **Streamlit** for deploying the app. to predict the MPG values for vehicles not included in the training phase. 
 
 The Mileage per Gallon (MPG) Prediction project holds significant potential in assisting car manufacturers, consumers, and policymakers in making informed decisions related to fuel efficiency and environmental impact. The accurate estimation of MPG can contribute to the development of more fuel-efficient vehicles, reduce carbon emissions, and promote sustainable transportation choices.
+
+
+
+https://github.com/Makorg123/project1_mpg_prediction/assets/84630559/79f214cd-2cfb-469f-b636-09fd6b17dcb2
+
+
