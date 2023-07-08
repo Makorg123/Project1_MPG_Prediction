@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
+pip install prediction
 from prediction import predict
 
 st.title('MPG Prediction App')
