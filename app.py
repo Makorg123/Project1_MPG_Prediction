@@ -21,6 +21,6 @@ with col4:
       origin = st.slider('origin',1,3,1)
 
 if st.button('Predict MPG of Car'):
-   result = predict(np.array([[cylinders,displacement,horsepower,weight,acceleration,model_year,origin]])
+   result = predict(np.array([[cylinders,displacement,horsepower,weight,acceleration,model_year,origin]]))
    st.text(result[0])
    
