@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
-#from prediction import predict
+from prediction import predict
 
 st.title('MPG Prediction App')
 st.markdown('This app predicts the **MPG** of a car!')
@@ -21,6 +21,6 @@ with col4:
       origin = st.slider('origin',1,3,1)
 
 if st.button('Predict MPG of Car'):
-   result = reg.predict([cylinders,displacement,horsepower,weight,acceleration,model_year,origin])
+   result = predict(np.array([[cylinders,displacement,horsepower,weight,acceleration,model_year,origin]])
    st.text(result[0])
    
