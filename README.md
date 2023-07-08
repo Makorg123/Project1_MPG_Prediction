@@ -1,7 +1,7 @@
 ## Project Title: Mileage per Gallon (MPG) Prediction using Linear Regression
 
 ### Description:
-** The Mileage per Gallon (MPG)**  Prediction project aims to develop a predictive model using linear regression to estimate the fuel efficiency of vehicles. MPG is a crucial metric for evaluating the performance and environmental impact of automobiles. By accurately predicting the MPG, we can provide valuable insights for manufacturers, consumers, and policymakers, enabling them to make informed decisions regarding vehicle purchases, emissions reduction, and fuel economy improvements.
+**The Mileage per Gallon (MPG)**  Prediction project aims to develop a predictive model using linear regression to estimate the fuel efficiency of vehicles. MPG is a crucial metric for evaluating the performance and environmental impact of automobiles. By accurately predicting the MPG, we can provide valuable insights for manufacturers, consumers, and policymakers, enabling them to make informed decisions regarding vehicle purchases, emissions reduction, and fuel economy improvements.
 
 To accomplish this, the project utilizes linear regression, a widely used statistical technique for modeling the relationship between variables. The model will be trained on a dataset consisting of various automotive features, such as engine displacement, horsepower, vehicle weight, and other relevant attributes. The target variable, in this case, is the MPG of the vehicle, which will be used to establish a linear relationship with the input features.
 
