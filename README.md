@@ -29,6 +29,9 @@ The Mileage per Gallon (MPG) Prediction project holds significant potential in a
 
 
 
-https://github.com/Makorg123/project1_mpg_prediction/assets/84630559/79f214cd-2cfb-469f-b636-09fd6b17dcb2
+https://github.com/Makorg123/project1_mpg_prediction/assets/84630559/d7629979-3964-4e20-99cf-ca0ca327b926
+
+
+
 
 
