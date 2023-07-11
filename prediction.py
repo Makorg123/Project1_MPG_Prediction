@@ -1,4 +1,4 @@
-import joblib
+#import joblib
 
 def predict(data):
    reg = joblib.load('reg_model.sav')
