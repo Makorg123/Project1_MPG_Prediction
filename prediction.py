@@ -1,4 +1,4 @@
-pip install joblib
+pip3 install joblib
 import joblib
 
 def predict(data):
