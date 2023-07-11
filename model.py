@@ -98,19 +98,7 @@ from sklearn.metrics import mean_squared_error
 np.sqrt(mean_squared_error(y,regpred))
 
 
-# In[21]:
 
-!pip install joblib
-import joblib
-
-
-# In[23]:
-
-
-joblib.dump(reg,'reg_model.sav')
-
-
-# In[ ]:
 
 
 
