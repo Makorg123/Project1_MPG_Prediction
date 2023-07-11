@@ -100,8 +100,8 @@ np.sqrt(mean_squared_error(y,regpred))
 
 # In[21]:
 
-
-#import joblib
+!pip install joblib
+import joblib
 
 
 # In[23]:
