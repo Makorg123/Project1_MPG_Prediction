@@ -27,34 +27,29 @@ To accomplish this, the project utilizes **linear regression**, a widely used st
 
 The Mileage per Gallon (MPG) Prediction project holds significant potential in assisting car manufacturers, consumers, and policymakers in making informed decisions related to fuel efficiency and environmental impact. The accurate estimation of MPG can contribute to the development of more fuel-efficient vehicles, reduce carbon emissions, and promote sustainable transportation choices.
 
-**Usage**
-Once the Streamlit application is running, you will be presented with a user interface containing input fields for various house features. Enter the relevant details, such as the number of bedrooms, bathrooms, area, etc., and click on the "Predict" button. The application will utilize the trained Random Forest model to generate a predicted price for the house based on the provided features.
+### Usage
+Once the Streamlit application is running, you will be presented with a user interface containing input fields for various features. Enter the relevant details, such as the number of cylinders, horsepower, displacement, weight, modelyear etc., and click on the "Predict" button. The application will utilize the trained Random Forest model to generate a predicted price for the miles based on the provided features.
 
-Contributing
+### Contributing
 Contributions to this project are welcome. If you would like to contribute, please follow these steps:
 
-Fork the repository on GitHub.
+### Fork the repository on GitHub
 
-Create a new branch from the main branch to work on your changes.
+1)Create a new branch from the **`main`** branch to work on your changes.
+2)Make your modifications and commit your changes.
+3)Push your branch to your forked repository.
+4)Open a pull request to the original repository, describing the changes you made.
 
-Make your modifications and commit your changes.
-
-Push your branch to your forked repository.
-
-Open a pull request to the original repository, describing the changes you made.
-
-License
+### License
 This project is licensed under the MIT License.
 
-Acknowledgements
-The dataset used in this project is sourced from [source-url].
+### Acknowledgments
+• The dataset used in this project is sourced from: https://archive.ics.uci.edu/ml/datasets/auto+mpg
+• The Random Forest algorithm is implemented using the scikit-learn library.
+• The Streamlit framework is used for creating the web application.
 
-The Random Forest algorithm is implemented using the scikit-learn library.
-
-The Streamlit framework is used for creating the web application.
-
-Contact
-If you have any questions or suggestions regarding this project, please feel free to contact me at [your-email@example.com].
+### Contact
+If you have any questions or suggestions regarding this project, please feel free to contact me at 132anaskhan@gmail.com.
 
 https://github.com/Makorg123/project1_mpg_prediction/assets/84630559/d7629979-3964-4e20-99cf-ca0ca327b926
 
