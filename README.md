@@ -8,6 +8,7 @@
 <img src = 'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png', height = "50 alt = 'Github'/><img width = '12'/>
 </div>
 
+
 ### Description:
 **The Mileage per Gallon (MPG)**  Prediction project aims to develop a predictive model using linear regression to estimate the fuel efficiency of vehicles. MPG is a crucial metric for evaluating the performance and environmental impact of automobiles. By accurately predicting the MPG, we can provide valuable insights for manufacturers, consumers, and policymakers, enabling them to make informed decisions regarding vehicle purchases, emissions reduction, and fuel economy improvements.
 
