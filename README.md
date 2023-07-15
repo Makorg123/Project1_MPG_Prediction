@@ -36,9 +36,9 @@ Contributions to this project are welcome. If you would like to contribute, plea
 This project is licensed under the MIT License.
 
 ### Acknowledgments
-• The dataset used in this project is sourced from: https://archive.ics.uci.edu/ml/datasets/auto+mpg
-• The Linear Regression algorithm is implemented using the scikit-learn library.
-• The Streamlit framework is used for creating the web application.
+- The dataset used in this project is sourced from: https://archive.ics.uci.edu/ml/datasets/auto+mpg
+- The Linear Regression algorithm is implemented using the scikit-learn library.
+- The Streamlit framework is used for creating the web application.
 
 ### Contact
 If you have any questions or suggestions regarding this project, please feel free to contact me at 132anaskhan@gmail.com.
