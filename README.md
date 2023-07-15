@@ -27,10 +27,10 @@ Contributions to this project are welcome. If you would like to contribute, plea
 
 ### Fork the repository on GitHub
 
-1)Create a new branch from the **`main`** branch to work on your changes.
-2)Make your modifications and commit your changes.
-3)Push your branch to your forked repository.
-4)Open a pull request to the original repository, describing the changes you made.
+- 1)Create a new branch from the **`main`** branch to work on your changes.
+- 2)Make your modifications and commit your changes.
+- 3)Push your branch to your forked repository.
+- 4)Open a pull request to the original repository, describing the changes you made.
 
 ### License
 This project is licensed under the MIT License.
