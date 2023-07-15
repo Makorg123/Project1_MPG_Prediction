@@ -28,7 +28,7 @@ To accomplish this, the project utilizes **linear regression**, a widely used st
 The Mileage per Gallon (MPG) Prediction project holds significant potential in assisting car manufacturers, consumers, and policymakers in making informed decisions related to fuel efficiency and environmental impact. The accurate estimation of MPG can contribute to the development of more fuel-efficient vehicles, reduce carbon emissions, and promote sustainable transportation choices.
 
 ### Usage
-Once the Streamlit application is running, you will be presented with a user interface containing input fields for various features. Enter the relevant details, such as the number of cylinders, horsepower, displacement, weight, modelyear etc., and click on the "Predict" button. The application will utilize the trained Random Forest model to generate a predicted price for the miles based on the provided features.
+Once the Streamlit application is running, you will be presented with a user interface containing input fields for various features. Enter the relevant details, such as the **number of cylinders**, **horsepower**, **displacement**, **weight**, **modelyear** etc., and click on the "Predict" button. The application will utilize the trained Linear Regression model to generate a predicted price for the miles based on the provided features.
 
 ### Contributing
 Contributions to this project are welcome. If you would like to contribute, please follow these steps:
@@ -45,7 +45,7 @@ This project is licensed under the MIT License.
 
 ### Acknowledgments
 • The dataset used in this project is sourced from: https://archive.ics.uci.edu/ml/datasets/auto+mpg
-• The Random Forest algorithm is implemented using the scikit-learn library.
+• The Linear Regression algorithm is implemented using the scikit-learn library.
 • The Streamlit framework is used for creating the web application.
 
 ### Contact
