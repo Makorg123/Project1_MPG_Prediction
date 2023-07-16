@@ -41,7 +41,7 @@ This project is licensed under the MIT License.
 - The Streamlit framework is used for creating the web application.
 
 ### Contact
-If you have any questions or suggestions regarding this project, please feel free to contact me at 132anaskhan@gmail.com.
+If you have any **questions** or **suggestions** regarding this project, please feel free to **contact me at 132anaskhan@gmail.com.**
 
 ### Technology used:
 <div align ='left'>
