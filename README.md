@@ -7,7 +7,8 @@ To accomplish this, the project utilizes **linear regression**, a widely used st
 
 ### The project involves the following key steps:
 
-**Data Collection**: Dataset: UCI Machine Learning Repository.  **Data link**: https://archive.ics.uci.edu/ml/datasets/auto+mpg
+**Data Collection**: Dataset: UCI Machine Learning Repository.  
+**Data link**: https://archive.ics.uci.edu/ml/datasets/auto+mpg
 
 **Data Preprocessing**: Cleaning and preprocessing the dataset to handle missing values, outliers, and inconsistencies. This step also involves transforming categorical variables into numerical representations, normalizing numeric features, and splitting the dataset into training and testing subsets.
 
