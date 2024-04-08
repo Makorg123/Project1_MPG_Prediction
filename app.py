@@ -18,7 +18,7 @@ with col3:
       acceleration = st.slider('acceleration',8,25,1)
       model_year = st.slider('model_year',70,85,70)
 with col4:
-      origin = st.slider('origin',1,3,1)
+      origin = st.slider('origin: 1-USA, 2-EU, 3-Asia',1,3,1)
 
 if st.button('Predict MPG of Car'):
    result = predict(np.array([[cylinders,displacement,horsepower,weight,acceleration,model_year,origin]]))
