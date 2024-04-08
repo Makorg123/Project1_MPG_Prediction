@@ -22,5 +22,6 @@ with col4:
 
 if st.button('Predict MPG of Car'):
    result = predict(np.array([[cylinders,displacement,horsepower,weight,acceleration,model_year,origin]]))
-   st.text(result[0])
+   formatted_result = "{:.2f}".format(result[0])
+   st.text('The predicted MPG of the car is: ' + formatted_result)
    
