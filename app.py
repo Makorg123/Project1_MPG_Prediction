@@ -16,7 +16,7 @@ with col2:
       weight = st.slider('weight',1500,6000,250)
 with col3:
       acceleration = st.slider('acceleration',8,25,1)
-      model_year = st.slider('model_year',70,85,1)
+      model_year = st.slider('model_year',70,85,70)
 with col4:
       origin = st.slider('origin',1,3,1)
 
